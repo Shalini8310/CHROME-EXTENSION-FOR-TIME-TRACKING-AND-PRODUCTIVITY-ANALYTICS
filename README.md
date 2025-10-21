@@ -1,12 +1,37 @@
-# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
-TASK-4 CHROME EXTENSION  FOR TIME TRACKING  AND PRODUCTIVITY  ANALYTICS
+#COMPANY: CODTECH IT SOLUTIONS
 
-*COMPANY*: Codtech it solutions
+NAME: SHALINI M RAO
 
-*Name*: Niharika Derangula
+INTERN ID: CT04DY2814
 
-*INTERN ID*: CT12NSI
+DOMAIN: FULL STACK DEVELOPMENT
 
-*Domain*: FULL STACK DEVELOPMENT
+DURATION: 4 WEEKS
 
-*Duration*: 8 weeks
+MENTOR: NEELA SANTOSH
+
+PROJECT DESCRIPTION:
+
+This project is a Chrome Extension that tracks the time spent on different websites and provides productivity analytics. It helps users monitor browsing habits, categorize sites as productive or unproductive, and view detailed analytics through a dashboard.
+
+FEATURES
+
+Tracks time spent on websites.
+
+Classifies websites as productive/unproductive.
+
+Displays analytics using charts and reports.
+
+Stores user data securely with a backend.
+
+Responsive and easy-to-use interface.
+
+TECHNOLOGIES USED
+
+HTML5 • CSS3 • JavaScript (ES6) • Chrome Extension API • Node.js • MongoDB
+
+LEARNING OUTCOMES
+
+Learned Chrome Extension development, API integration, backend connectivity, and data visualization. Improved skills in full stack development and creating interactive productivity tools.
+
+OUTPUT:
