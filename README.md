@@ -1,4 +1,4 @@
-#COMPANY: CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: SHALINI M RAO
 
@@ -35,3 +35,5 @@ LEARNING OUTCOMES
 Learned Chrome Extension development, API integration, backend connectivity, and data visualization. Improved skills in full stack development and creating interactive productivity tools.
 
 OUTPUT:
+
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/90acf955-d750-4b02-929b-0158413490a1" />
